@@ -31,7 +31,7 @@ Um canal de tecnologia **descomplicada**: Windows, formatação, hardware, otimi
 
 O programa do canal, **grátis, sem anúncios e sem coleta de dados**. Tudo o que a gente ensina nos vídeos, num lugar só:
 
-| | |
+| Função | O que faz |
 |---|---|
 | 🚀 **Pós-formatação** | Ponto de restauração, Windows Update, ativação, remover propaganda, instalar seus programas e configurar o Windows, na ordem certa. |
 | 📦 **Programas** | Instale e atualize os programas mais usados com um clique, direto do site oficial. |
@@ -73,7 +73,7 @@ O programa do canal, **grátis, sem anúncios e sem coleta de dados**. Tudo o qu
 
 ## 🔥 Ofertas e parceiros
 
-| | |
+| Onde | Detalhes |
 |---|---|
 | 💬 **Top Ofertas** | Promoções de peças, periféricos e eletrônicos garimpadas todo dia: [WhatsApp](https://whatsapp.com/channel/0029VaAgvjxGk1FmzFfBdZ0T) · [Telegram](https://t.me/topofertasmestresdainformatica) |
 | 🛡️ **Kaspersky** | Antivírus recomendado pelo canal. Cupom **MESTRES**: 30% OFF no valor final. [Ver oferta](https://www.seguranca.gg/mestres/) |
