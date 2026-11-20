@@ -26,19 +26,20 @@ Um canal de tecnologia **descomplicada**: Windows, formatação, hardware, otimi
 
 ## 🚀 HUB Pro: a central gratuita para cuidar do seu PC
 
-<a href="https://github.com/mestresdainformatica/HUB-Pro"><img src="assets/hub-escuro.png" width="49%" alt="HUB Pro no tema escuro"/></a>
-<a href="https://github.com/mestresdainformatica/HUB-Pro"><img src="assets/hub-claro.png" width="49%" alt="HUB Pro no tema claro"/></a>
+<a href="https://github.com/mestresdainformatica/HUB-Pro"><img src="assets/hub-escuro.png" width="49%" alt="Visão geral do HUB Pro 0.3.33 no tema escuro"/></a>
+<a href="https://github.com/mestresdainformatica/HUB-Pro"><img src="assets/hub-claro.png" width="49%" alt="Visão geral do HUB Pro 0.3.33 no tema claro"/></a>
 
-O programa do canal, **grátis, sem anúncios e sem coleta de dados**. Tudo o que a gente ensina nos vídeos, num lugar só:
+O programa do canal, **grátis, em português e sem coleta de dados**. Tudo o que a gente ensina nos vídeos, num lugar só, agora com o **visual novo da versão 0.3.33**: menu com 7 áreas, busca de ferramentas (Ctrl + F) e tema claro ou escuro.
 
-| Função | O que faz |
+| Área | O que faz |
 |---|---|
-| 🚀 **Pós-formatação** | Ponto de restauração, Windows Update, ativação, remover propaganda, instalar seus programas e configurar o Windows, na ordem certa. |
-| 📦 **Programas** | Instale e atualize os programas mais usados com um clique, direto do site oficial. |
-| 🧹 **Limpeza e Otimizações** | Libere espaço e deixe o Windows mais leve. Tudo pode ser desfeito. |
-| 🔌 **Drivers** | Windows Update, NVIDIA, AMD e Intel pelo instalador oficial, com a assinatura conferida. |
-| 🗑️ **Desinstalador** | Remove vários programas de uma vez e procura as sobras. |
-| 🌐 **Rede e 📊 Benchmark** | Descubra onde está o problema da internet e meça o desempenho do PC. |
+| 🏠 **Início** | Nota de saúde do PC de 0 a 100, o que merece atenção e o Corrigir tudo com revisão item por item. |
+| 🚀 **Pós-formatação** | Ponto de restauração, Windows Update, ativação, remover propaganda, instalar seus programas e configurar o Windows, em 7 etapas. |
+| 📦 **Programas** | Instale, atualize e desinstale programas com um clique, e tire os apps de propaganda do Windows. |
+| 🧹 **Otimizar** | Limpeza, 69 ajustes do Windows, inicialização, mapa do disco e arquivos duplicados. Tudo pode ser desfeito. |
+| 💻 **Meu PC** | Peças do PC, saúde dos discos, drivers, bateria e os requisitos do Windows 11. |
+| 🩺 **Diagnósticos** | Teste de internet, benchmark, periféricos e teste de pendrive falsificado. |
+| 🛟 **Recuperação** | Reparar o Windows, pontos de restauração, Central Desfazer e backup para formatar. |
 
 <div align="center">
 
